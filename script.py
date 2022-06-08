@@ -1,1 +1,4 @@
-a=open('try.txt','w')
+import os
+
+os.mkdir('hello')
+
