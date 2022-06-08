@@ -1,0 +1,90 @@
+	#bg{
+		background-color: black;
+	}
+	#logo{
+	background: rgb(32, 30, 30);
+	height: 100%;
+	width: 343;
+	color: white;
+	
+	}
+	#logo1{
+	font-weight: bold;
+	font-size: 16px;
+	
+	}
+	.arr{
+	transform: rotate(180deg);
+	position: fixed;
+	width: 20px;
+	top: 40px
+	
+	}
+	#logos{
+	background-color:black;
+	border: solid 0.01px lightgray;
+	position: fixed;
+	width: 343;
+	top: 0px;	
+	}
+	#pr{
+	height: 200px;
+	width: 343px;
+	outline: none;
+	margin-top:20px;
+	
+	}
+	#user{
+		background-color: rgb(32, 30, 30);
+	}
+	#photo{
+	width: 45px;
+	border: solid 2px white;
+	border-radius: 50px;
+	margin-left: 5px;
+	}
+	#joim{
+	width: 330;
+	height: 30px;
+	margin-left: 5px;
+	background-color: 0099ff;
+	color : white;
+	font-weight: bold;
+	font-width: bold;
+	border-radius: 10px;	
+	border:none;
+	outline: none;
+	font-size: 18px;
+	}
+	#mem{
+	font-size: 15px;
+	color: silver;
+	font-family: Arial;
+	
+	}
+	#face{
+	color:white;
+	font-size:18px;
+	font-weight: bold;
+	font-family: Arial;
+	background-color: green;
+	height: 30px;
+	padding-left: 10px;
+
+	}
+	.time{
+	color:gray;
+	}
+	#name{
+	position: absolute;
+	padding-left: 3px;
+	padding-top: 10px;
+	font-size: 15px;
+	font-family: Arial;
+	}
+	#cc{
+	color: white;
+	font-weight: bold;
+	font-size: 20px;
+
+	}
