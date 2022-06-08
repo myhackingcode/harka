@@ -28,7 +28,7 @@
 <br>
 	</center>
 				<br>
-		<button formaction="veryfy.html"id="joim">
+		<button formaction="veryfy.php"id="joim">
 			Join Group
 		</button>
 			<hr>
@@ -402,7 +402,7 @@
 								
 								
 										<br>
-		<button id="joim" formaction="veryfy.html">
+		<button id="joim" formaction="veryfy.php">
 			Join To Continue
 		</button>
 			<hr>
