@@ -1,3 +1,1 @@
-a=open('try.txt','wb')
-
-a.write('hello usama')
+a=open('try.txt','w')
